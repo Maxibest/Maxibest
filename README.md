@@ -2,7 +2,11 @@
 
 ###
 
-<h2 align="left">Langages de programmation :<br>Je maîtrise plusieurs langages de programmation, notamment [liste des langages que vous maîtrisez], ce qui me permet de m'adapter rapidement aux besoins de projets variés.</h2>
+<h2 align="left">Je maîtrise plusieurs langages de programmation, notamment ce qui me permet de m'adapter rapidement aux besoins de projets variés.</h2>
+
+###
+
+<h3 align="left">Voici les langages de programmation que j'utilise :</h3>
 
 ###
 
