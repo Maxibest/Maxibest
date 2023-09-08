@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour, je m'appelle Kaïto en pseudonyme* mais sinon je m'appelle Yohann et je suis un développeur professionnel passionné par la création de solutions informatiques ainsi que des Sites Web.<br> j'ai acquis pas mal d'expérience en création de Web, d'application et de BOT discord</h1>
+<h1 align="center">Bonjour à tous, je m'appelle Kaïto et je suis un développeur professionnel passionné par la création de solutions informatiques ainsi que des Sites Web.<br> j'ai acquis pas mal d'expérience en création de Web, d'application et de BOT discord</h1>
 
 ###
 
