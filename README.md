@@ -1,12 +1,19 @@
-<h1 align="center">Bonjour à tous, je m'appelle Kaïto et je suis un développeur professionnel passionné par la création de solutions informatiques ainsi que des Sites Web.<br> j'ai acquis pas mal d'expérience en création de Web, d'application et de BOT discord</h1>
+# <div align="center">Kaito</div>
+## 👋 Présentation
+Bonjour à tous, je m'appelle Kaïto et je suis un développeur professionnel passionné par la création de solutions informatiques ainsi que des Sites Web.
+j'ai acquis pas mal d'expérience en création de Web, d'application et de BOT discord
+Je maîtrise plusieurs langages de programmation, notamment ce qui me permet de m'adapter rapidement aux besoins de projets variés.
 
-###
+Plus d'informations disponibles sur [www.linkedin.com]()https://www.linkedin.com/in/yohann-gonthier/
 
-<h2 align="left">Je maîtrise plusieurs langages de programmation, notamment ce qui me permet de m'adapter rapidement aux besoins de projets variés.</h2>
-
-###
-
-<h3 align="left">Voici les langages de programmation que j'utilise :</h3>
+<div align="left">
+  <a href="https://www.instagram.com/crst_yhn/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/yohann-gonthier/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 
@@ -25,9 +32,6 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/crst_yhn/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Maxibest&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maxibest&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
