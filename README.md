@@ -6,6 +6,12 @@ Je maîtrise plusieurs langages de programmation, notamment ce qui me permet de 
 
 Plus d'informations disponibles sur [https://www.linkedin.com/in/yohann-gonthier/](https://www.linkedin.com/in/yohann-gonthier-95970524b/)
 
+<img align="right" height="200" src="https://vidhi-mody.github.io/img/contribute.gif" />
+
+
+
+###
+
 <div align="left">
   <a href="https://www.instagram.com/crst_yhn/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
