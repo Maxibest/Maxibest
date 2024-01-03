@@ -1,4 +1,4 @@
-# <div align="center">Kaito</div>
+# <div align="center">Kaïto</div>
 ## 👋 Présentation
 Bonjour à tous, je m'appelle Kaïto et je suis un développeur professionnel passionné par la création de solutions informatiques ainsi que des Sites Web.
 j'ai acquis pas mal d'expérience en création de Web, d'application et de BOT discord
