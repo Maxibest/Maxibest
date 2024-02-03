@@ -4,7 +4,8 @@ Bonjour à tous, je m'appelle Kaïto et je suis un développeur professionnel pa
 j'ai acquis pas mal d'expérience en création de Web, d'application et de BOT discord
 Je maîtrise plusieurs langages de programmation, notamment ce qui me permet de m'adapter rapidement aux besoins de projets variés.
 
-Plus d'informations disponibles sur [https://www.linkedin.com/in/yohann-gonthier/](https://www.linkedin.com/in/yohann-gonthier-95970524b/)
+Plus d'informations disponibles sur [https://www.linkedin.com/in/yohann-gonthier/](https://www.linkedin.com/in/yohann-gonthier-95970524b/) <br>
+Mon Wakatime : https://wakatime.com/@018b3f39-51ed-4297-8440-8d82fbd4aa5f
 
 <img align="right" height="200" src="https://media.tenor.com/6l0PntnFc98AAAAC/httyd-how-to-train-your-dragon.gif" />
 
