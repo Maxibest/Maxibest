@@ -1,6 +1,6 @@
 # <div align="center">Kaïto</div>
 ## 👋 Présentation
-Bonjour à tous, je m'appelle Kaïto et je suis un étudiant professionnel passionné par la création de solutions informatiques ainsi que des Sites Web.
+Bonjour à tous, je m'appelle Kaïto et je suis un étudiant en BTS SIO SLAM(Solutions logicielles et application métiers) passionné par la création de solutions informatiques ainsi que des Sites Web.
 j'ai acquis pas mal d'expérience en création de Web, d'application et de BOT discord
 Je maîtrise plusieurs langages de programmation, notamment ce qui me permet de m'adapter rapidement aux besoins de projets variés.
 
