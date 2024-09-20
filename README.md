@@ -33,8 +33,6 @@ Mon Wakatime : https://wakatime.com/@018b3f39-51ed-4297-8440-8d82fbd4aa5f
     <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
      <img width="12" />
-   <img src="https://w7.pngwing.com/pngs/210/24/png-transparent-php-logo-programmer-computer-software-it-sticker-miscellaneous-sticker-web-application-thumbnail.png" height="40" alt="csharp logo"  />
-     <img width="12" />
 </div>
 
 ###
