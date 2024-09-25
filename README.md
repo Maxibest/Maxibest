@@ -67,13 +67,12 @@
 <div align="center">
   <img height="100" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"  />
 </div>
-###
-
-<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2022/06/icegif-452.gif"  />
 
 ###
 
 <h3 align="left">GitHub Trophies</h3>
+
+###
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=maxibest&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
@@ -82,6 +81,10 @@
 ###
 
 <h3 align="left">Visitor count</h3>
+
+###
+
+<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2022/06/icegif-452.gif"  />
 
 ###
 
