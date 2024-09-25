@@ -68,8 +68,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/maxibest/maxibest/output/snake.svg" alt="Snake animation" />
 
 ###
