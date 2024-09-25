@@ -57,10 +57,6 @@
 
 ###
 
-<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2022/06/icegif-452.gif"  />
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -68,6 +64,31 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/maxibest/maxibest/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="100" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"  />
+</div>
+###
+
+<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2022/06/icegif-452.gif"  />
+
+###
+
+<h3 align="left">GitHub Trophies</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=maxibest&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<h3 align="left">Visitor count</h3>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/maxibest/count.svg?"  />
+</div>
 
 ###
