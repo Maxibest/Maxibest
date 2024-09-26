@@ -1,0 +1,49 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0,8,16 * * *'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository content
+        uses: actions/checkout@v2
+
+      - name: Update README
+        run: |
+          # Compte le nombre de fois où le README a été mis à jour automatiquement
+          change_count=$(git log --oneline README.md | grep "Auto-update README" | wc -l)
+          
+          if grep -q "I'm curious and eager to learn" README.md; then
+            
+            if [ "$change_count" -lt 3 ]; then
+              sed -i 's/eager to learn/always learning new things/' README.md
+              ((change_count++))
+            fi
+
+            if [ "$change_count" -lt 3 ]; then
+              sed -i 's/I enjoy creating video games/I enjoy creating site web/' README.md
+              ((change_count++))
+            fi
+
+            if [ "$change_count" -lt 3 ]; then
+              sed -i 's/I'\''m curious and eager to learn/I'\''m curious and enjoy taking on new challenges/' README.md
+              ((change_count++))
+            fi
+          else
+            sed -i 's/always learning new things/eager to learn/' README.md
+            sed -i 's/I enjoy creating site web/I enjoy creating video games/' README.md
+            sed -i 's/I'\''m curious and enjoy taking on new challenges/I'\''m curious and eager to learn/' README.md
+          fi
+
+      - name: Commit changes
+        run: |
+          git config --local user.name "GitHub Action"
+          git config --local user.email "action@github.com"
+          git add README.md
+          git commit -m "Auto-update README with small changes" || echo "No changes to commit"
+
+      - name: Push changes
+        run: git push
