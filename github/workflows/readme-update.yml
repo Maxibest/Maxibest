@@ -47,5 +47,5 @@ jobs:
 
       - name: Push changes
         env: 
-          GH_TOKEN: ${{ secret.HG_TOKEN }}
+          GH_TOKEN: ${{ secret.GH_TOKEN }}
           run: git push
