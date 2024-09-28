@@ -3,13 +3,15 @@ name: Update README
 on:
   schedule:
     - cron: '0 0,8,16 * * *'
+permissions:
+    contents: write
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository content
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Update README
         run: |
