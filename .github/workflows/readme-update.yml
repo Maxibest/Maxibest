@@ -3,8 +3,9 @@ name: Update README
 on:
   schedule:
     - cron: '0 0,8,16 * * *'
+
 permissions:
-    contents: write
+  contents: write
 
 jobs:
   update-readme:
@@ -40,14 +41,11 @@ jobs:
             sed -i 's/I'\''m curious and enjoy taking on new challenges/I'\''m curious and eager to learn/' README.md
           fi
 
-      - name: Commit changes
-        run: |
-          git config --local user.name "GitHub Action"
-          git config --local user.email "action@github.com"
-          git add README.md
-          git commit -m "Auto-update README with small changes" || echo "No changes to commit"
-
-      - name: Push changes
-        run: git push
+      - name: Commit and Push changes
+        uses: EndBug/add-and-commit@v4
+        with:
+          author_name: Maxibest
+          author_email: yohann.gonthier.jr@gmail.com
+          message: ':memo: README.md updated by Kaibot'
         env: 
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
