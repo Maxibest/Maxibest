@@ -74,9 +74,6 @@
   </a>
 </div>
 
-
-<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2022/06/icegif-452.gif"  />
-
 ###
 
 <div align="center">
