@@ -27,7 +27,7 @@ jobs:
             fi
 
             if [ "$change_count" -lt 3 ]; then
-              sed -i 's/I enjoy creating video games/I enjoy creating site web/' README.md
+              sed -i 's/I enjoy creating video games/I enjoy creating web site /' README.md
               change_count=$(expr $change_count + 1)
             fi
 
@@ -37,7 +37,7 @@ jobs:
             fi
           else
             sed -i 's/always learning new things/eager to learn/' README.md
-            sed -i 's/I enjoy creating site web/I enjoy creating video games/' README.md
+            sed -i 's/I enjoy creating web site/I enjoy creating video games/' README.md
             sed -i 's/I'\''m curious and enjoy taking on new challenges/I'\''m curious and eager to learn/' README.md
           fi
 
