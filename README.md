@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ I enjoy creating web site <br>📚 I'm a student in BTS SLAM (Software Solutions and Business Applications)<br>🎯 I'm curious and eager to learn</p>
+<p align="left">✨ I enjoy creating web site <br>📚 I'm a student in BTS SLAM (Software Solutions and Business Applications)<br>🎯 I'm curious and always learning new things</p>
 
 ###
 
