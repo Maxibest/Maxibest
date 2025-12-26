@@ -76,14 +76,14 @@
 
 ###
 
-<div align="">
+<div align="center">
   <img height="100" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"  />
 </div>
 
 ###
 
 <h3 align="left">Programming House</h3>
-
+###
 <a href="https://wakatime.com/@018b3f39-51ed-4297-8440-8d82fbd4aa5f">
   <div align="center">
     <img src="https://wakatime.com/static/img/wakatime.svg" height="150" alt="WakaTime logo" />
