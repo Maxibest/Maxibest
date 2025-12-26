@@ -81,7 +81,10 @@
 </div>
 
 ###
-<h3 align="center">Programming House</h3>
+<h3 align="left">Programming House</h3>
+
+###
+
 <a href="https://wakatime.com/@018b3f39-51ed-4297-8440-8d82fbd4aa5f">
   <div style="text-align: center;">
     <img src="https://wakatime.com/static/img/wakatime.svg" height="150" alt="WakaTime logo" />
