@@ -82,16 +82,6 @@
 
 ###
 
-<h3 align="left">GitHub Trophies</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=maxibest&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
 <h3 align="left">Programming House</h3>
 
 <a href="https://wakatime.com/@018b3f39-51ed-4297-8440-8d82fbd4aa5f">
@@ -99,17 +89,5 @@
     <img src="https://wakatime.com/static/img/wakatime.svg" height="150" alt="WakaTime logo" />
   </div>
 </a>
-
-###
-
-<h3 align="left">Visitor count</h3>
-
-###
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/maxibest/count.svg?"  />
-</div>
 
 ###
